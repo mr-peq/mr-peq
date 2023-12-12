@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Theodore 🎸</h1>
 <h3 align="center">A curious and eager-to-learn Fullstack Web Developer and music lover, from Paris !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-peq" alt="mr-peq" /></a> </p>
-
 - 💻 Currently working on ['all-ears-js': a Vanilla JS game to see how well you know your friends' tastes in music!](https://github.com/sjapaget/all-ears-js)
 
 - 🌱 Currently learning **React**
