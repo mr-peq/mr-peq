@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theodore 🎸</h1>
 <h3 align="center">A curious and eager-to-learn Fullstack Web Developer and music lover, from Paris !</h3>
 
-- 💻 Currently working on ['all-ears-js': a Vanilla JS game to see how well you know your friends' tastes in music!](https://github.com/sjapaget/all-ears-js)
+- 💻 Currently working on [all-ears-js]: a Vanilla JS game to see how well you know your friends' tastes in music!(https://github.com/sjapaget/all-ears-js)
 
 - 🌱 Currently learning **React**
 
